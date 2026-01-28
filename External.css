@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    font-size: 36px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+p{
+    color:white;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 0;
+    background-color:brown;
+};
